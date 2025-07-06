@@ -1,5 +1,5 @@
 import Navbar from '../components/Navbar';
-import PromoSection from '../components/Promosection';
+import PromoSection from '../components/PromoSection';
 import CTA from '../components/CTA';
 
 function About() {
